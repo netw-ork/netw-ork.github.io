@@ -11,3 +11,7 @@ tags:
 The network whitepaper can be read at:
 
 <a href="https://network.com.de/network">network.com.de/network</a> <br>
+
+The link to the PDF version:
+
+Available soon
