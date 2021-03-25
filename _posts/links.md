@@ -6,7 +6,7 @@ tags:
 
 ---
 
-### Library
+### Network Links
 
 Website https://network.com.de/ 
 Governance: https://gov.network.com.de/
