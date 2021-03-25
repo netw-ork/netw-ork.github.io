@@ -6,7 +6,10 @@ tags:
 
 ---
 
-# Network Whitepaper <br>
+# Network Whitepaper 
+
+<br>
+<br>
 
 The network whitepaper can be read at: <a href="https://network.com.de/network" target="_blank">network.com.de/network</a> <br>
 
