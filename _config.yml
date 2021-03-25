@@ -35,3 +35,5 @@ markdown: kramdown
 permalink: /:title/
 theme: jekyll-athena
 future: true
+
+image: /default-card.png
